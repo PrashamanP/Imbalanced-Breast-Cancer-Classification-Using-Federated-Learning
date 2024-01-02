@@ -16,6 +16,10 @@ The approach leverages EfficientNet-B0 as the foundational model, enhancing its 
 
 Breast cancer remains a significant global health concern, ranking as the second leading cause of cancer-related mortality among women. Despite advancements in cancer theragnostic approaches, particularly for the Invasive Ductal Carcinoma (IDC) subtype, breast cancer remains a formidable challenge. This project builds upon the proposed solution, employing the transfer learning paradigm to classify histopathological images.
 
+## Result
+
+In this study, we employed the EfficientNet architecture in a federated learning framework with 10 clients, preserving data privacy. Parallelism enhanced model efficiency, enabling faster convergence and concurrent task execution. Results demonstrated EfficientNet's superiority over Logistic Regression in classification accuracy within a federated learning setup, highlighting the benefits of advanced neural networks and parallelism.
+
  ## Conclusion
 
 The use of EfficientNet proves effective in breast cancer image classification, demonstrating efficiency and accuracy. Federated learning with 10 decentralized clients enables collaborative model training without centralizing patient data, enhancing robustness and privacy compliance.
