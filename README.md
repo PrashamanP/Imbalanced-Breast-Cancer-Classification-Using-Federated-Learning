@@ -15,3 +15,9 @@ The challenge of accurately detecting breast cancer using automated algorithms p
 The approach leverages EfficientNet-B0 as the foundational model, enhancing its performance through cutting-edge techniques. Transfer learning principles are embraced, applying knowledge gained from the ImageNet dataset (as the source domain) to the target domain comprising histopathological images. Extensive experimentation on a dataset of 277,524 images demonstrates the superior performance of the proposed framework compared to existing methodologies in the literature.
 
 Breast cancer remains a significant global health concern, ranking as the second leading cause of cancer-related mortality among women. Despite advancements in cancer theragnostic approaches, particularly for the Invasive Ductal Carcinoma (IDC) subtype, breast cancer remains a formidable challenge. This project builds upon the proposed solution, employing the transfer learning paradigm to classify histopathological images.
+
+ ## Conclusion
+
+The use of EfficientNet proves effective in breast cancer image classification, demonstrating efficiency and accuracy. Federated learning with 10 decentralized clients enables collaborative model training without centralizing patient data, enhancing robustness and privacy compliance.
+
+The integration of parallelism optimizes model efficiency, crucial for scalability in distributed networks. EfficientNet surpasses logistic regression in federated learning, capturing intricate hierarchical features. In decentralized settings, where data complexity and diversity demand sophistication, EfficientNet excels, making it a preferred choice for breast cancer image classification in federated learning.
