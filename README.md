@@ -1,4 +1,4 @@
-# Imbalanced-Breast-Cancer-Classification-Using-Federated-Learning
+# Imbalanced-Breast-Cancer-Classification-Using-Transfer-Learning
 
 ## ABSTRACT
 
